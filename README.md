@@ -19,6 +19,6 @@ The WebSocket server listens on port 8765 and print json files sent by the clien
 
 ```$ python3 server.py```
 
-You can test that the server is working by running the clinet example:
+You can test that the server is working by running the client example:
 
 ```$ python3 client.py```
